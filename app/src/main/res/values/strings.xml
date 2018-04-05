@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lottoServiceTR_android</string>
+    <string name="sayisal_loto">Sayısal Loto</string>
+    <string name="super_loto">Süper Loto</string>
+    <string name="sansli_sayilarim">Şanslı Sayılarım</string>
+    <string name="loto_sonuclari">Loto Sonuçları</string>
+    <string name="loto_date">Çekiliş Tarihleri</string>
+    <string name="loto_result">Sonuçları</string>
+    <string name="loto_add_myluckynumber">Şanslı Sayılarıma Ekle</string>
+    <string name="dialog_warn"><b>Dikkat!</b></string>
+    <string name="dialog_comment">Şanslı sayılarınızı silmek istediğinize emin misiniz?</string>
+    <string name="dialog_yes_btn">Sil</string>
+    <string name="dialog_no_btn">İptal</string>
+
+    <string name="buyuk_ikramiye">Büyük İkramiye</string>
+    <string name="sansli_sayilar">Şanslı Sayılar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

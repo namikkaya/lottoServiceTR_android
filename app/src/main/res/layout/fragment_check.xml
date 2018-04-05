@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:background="@color/darkGrey"
+    tools:context=".Fragment.checkFragment"
+    android:focusable="true">
+
+    <LinearLayout
+        android:layout_margin="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_marginTop="@dimen/xxlMargin"
+            android:id="@+id/dateText"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/xlSize"
+            android:text="..." />
+
+        <TextView
+            android:layout_marginLeft="@dimen/standartMargin"
+            android:layout_marginRight="@dimen/standartMargin"
+            android:layout_marginTop="@dimen/lMargin"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/lSize"
+            android:text="@string/buyuk_ikramiye" />
+
+        <TextView
+            android:layout_marginLeft="@dimen/standartMargin"
+            android:layout_marginRight="@dimen/standartMargin"
+            android:layout_marginTop="@dimen/sMargin"
+            android:id="@+id/moneyText"
+            android:textAlignment="center"
+            android:textColor="@color/red"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/xlSize"
+            android:text="..." />
+
+        <TextView
+            android:layout_marginLeft="@dimen/standartMargin"
+            android:layout_marginRight="@dimen/standartMargin"
+            android:layout_marginTop="@dimen/lMargin"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/lSize"
+            android:text="@string/sansli_sayilar" />
+
+        <TextView
+            android:layout_marginLeft="@dimen/standartMargin"
+            android:layout_marginRight="@dimen/standartMargin"
+            android:layout_marginTop="@dimen/sMargin"
+            android:id="@+id/luckyNumbersText"
+            android:textAlignment="center"
+            android:textColor="@color/yellow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/xxlSize"
+            android:text="..." />
+
+        <Button
+            android:layout_marginLeft="@dimen/standartMargin"
+            android:layout_marginRight="@dimen/standartMargin"
+            android:layout_marginTop="@dimen/xxlMargin"
+            android:layout_gravity="center"
+            android:id="@+id/myLuckyNumbersButton"
+            style="@style/customBasicButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loto_add_myluckynumber" />
+
+    </LinearLayout>
+
+</FrameLayout>

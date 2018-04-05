@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="custom_basic_btn_textSize">16dip</dimen>
+    <dimen name="general_radius">8dp</dimen>
+    <dimen name="sMargin">8dp</dimen>
+    <dimen name="standartMargin">16dp</dimen>
+    <dimen name="lMargin">32dp</dimen>
+    <dimen name="xlMargin">48dp</dimen>
+    <dimen name="xxlMargin">64dp</dimen>
+    <dimen name="sSize">14dip</dimen>
+    <dimen name="standartSize">16dip</dimen>
+    <dimen name="lSize">18dip</dimen>
+    <dimen name="xlSize">24dip</dimen>
+    <dimen name="xxlSize">28dip</dimen>
+</resources>

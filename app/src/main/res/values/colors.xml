@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ff4e09</color>
+    <color name="colorAccent">#000</color>
+
+    <!-- custom_basic_btn Colors -->
+    <color name="custom_basic_btn_blue">#4349ff</color>
+    <color name="custom_basic_btn_green">#69fa62</color>
+    <color name="custom_basic_btn_darkgreen">#068000</color>
+    <color name="custom_basic_btn_grey">#6e6e6e</color>
+    <color name="custom_basic_btn_shadow_darkGrey">#363636</color>
+    <color name="custom_basic_btn_textColor">#fff</color>
+    <!-- custom_basic_btn Colors -->
+
+    <color name="orange">#ff4e09</color>
+    <color name="darkGrey">#2e2e2e</color>
+    <color name="lightGrey">#a4a4a4</color>
+    <color name="white">#fff</color>
+    <color name="red">#cf0000</color>
+    <color name="yellow">#ffbb00</color>
+</resources>
